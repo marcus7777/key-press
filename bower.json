@@ -1,0 +1,13 @@
+{
+  "name": "key-press",
+  "version": "1.0.0",
+  "description": "key-press",
+  "main": "key-press.html",
+  "keywords": [
+    "polymer","web-components"
+  ],
+  "dependencies": {
+    "polymer": "*",
+    "Keypress":"dmauro/Keypress"
+  }
+}
